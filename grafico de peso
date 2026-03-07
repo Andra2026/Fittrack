@@ -1,0 +1,20 @@
+import matplotlib.pyplot as plt
+
+# Dias da semana
+dias = ["Segunda", "Terça", "Quarta", "Quinta", "Sexta", "Sábado", "Domingo"]
+
+# Peso registrado em cada dia
+peso = [72, 71.5, 71, 70.5, 70, 69.8, 69.5]
+
+# Criar gráfico
+plt.plot(dias, peso, marker='o')
+
+# Título
+plt.title("Evolução do Peso na Semana")
+
+# Nome dos eixos
+plt.xlabel("Dias da Semana")
+plt.ylabel("Peso (kg)")
+
+# Mostrar gráfico
+plt.show()
