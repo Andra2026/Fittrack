@@ -24,3 +24,9 @@ Frontend → Interface do usuário (HTML)
 Backend → Lógica do sistema em Python
 
 Banco de Dados → Armazenamento das informações de peso
+## Como executar o projeto
+
+1. Clonar este repositório
+2. Abrir a pasta do projeto
+3. Executar o backend em Python
+4. Abrir o arquivo index.html no navegado
