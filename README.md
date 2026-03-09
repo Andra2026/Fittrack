@@ -1,6 +1,6 @@
-Fittrack
+# Fittrack
 
-Sistema de controle de peso e cálculo de IMC.
+Sistema desenvolvido para registrar peso, calcular IMC e acompanhar a evolução do peso do usuário.
 
 ## Funcionalidades
 - Cálculo de IMC
@@ -9,9 +9,12 @@ Sistema de controle de peso e cálculo de IMC.
 
 ## Tecnologias utilizadas
 - Python
+- HTML
+- SQLite
+- GitHub
 
 ## Autor
-Andra paula carneiro de jesus
+Andra Paula Carneiro de Jesus
 ## Arquitetura do Sistema
 
 O projeto Fittrack utiliza arquitetura de três camadas:
