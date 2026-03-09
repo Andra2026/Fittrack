@@ -1,4 +1,4 @@
-# Fittrack
+# 📊 Fittrack
 
 Sistema desenvolvido para registrar peso, calcular IMC e acompanhar a evolução do peso do usuário.
 
